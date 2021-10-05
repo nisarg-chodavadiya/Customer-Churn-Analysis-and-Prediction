@@ -45,15 +45,15 @@ Some of the Visualizations are below.
 **Alternate Hypothesis:** Which customers are using data without subscribing to data plan are not prone to churn.
 
 **Permutation Experiments**
-* In this test random sample of 50 customers will be taken.
-* That 50 customers will be in two groups.
+* In this test random sample of 10 customers will be taken.
+* That 10 customers will be in two groups.
 * Group2: Customers which are using data without subscribing data plan.
 * Group1: All remaining Customers which are not in Group2
 * Find the churn ratio in both groups.
 * If the null hypothesis is acceptable then Churn Ratio of (Group2 > Group1) in >5% of number of the permutation experiments.
 
 **Test Result**
-* More than 80% of experiments are in favor of the null hypothesis.
+* ~80% of experiments are in favor of the null hypothesis.
 * Null hypothesis accepted.
 * All conclusions on customer analysis are going right.
 
