@@ -10,6 +10,7 @@ Know the customer behavior and recommend the steps to retain existing customers 
 1. Imports
 2. Info
 3. Customer Analysis
+  * Customer segmentation
   * Steps to retain customers
   * Hypothesis test (Permutations)
 4. Machine Learning Model
@@ -31,6 +32,9 @@ Some of the Visualizations are below.
 ![image](https://user-images.githubusercontent.com/75474944/134847242-5811a3be-b7af-4fe7-ab75-5f91d775d9bd.png)
 ![image](https://user-images.githubusercontent.com/75474944/134847273-d4676d6a-d7ae-4e9d-b247-8ef59c93e4a4.png)
 
+## Customer Segmentation
+![image](https://user-images.githubusercontent.com/75474944/137465838-d3aba881-9b8c-497b-be8d-62f50748db20.png)
+![image](https://user-images.githubusercontent.com/75474944/137465858-152958e7-b1c7-4dc2-9087-a956d1a7781f.png)
 
 ## Steps to Retain Customers
 * More Customer Service calls mean the customer is more prone to churn.
@@ -45,15 +49,14 @@ Some of the Visualizations are below.
 **Alternate Hypothesis:** Which customers are using data without subscribing to data plan are not prone to churn.
 
 **Permutation Experiments**
-* In this test random sample of 10 customers will be taken.
-* That 10 customers will be in two groups.
+* In this test random sample of 20 customers will be taken.
+* That 20 customers will be in two groups.
 * Group2: Customers which are using data without subscribing data plan.
-* Group1: All remaining Customers which are not in Group2
+* Group1: All remaining Customers which are not in Group2.
 * Find the churn ratio in both groups.
-* If the null hypothesis is acceptable then Churn Ratio of (Group2 > Group1) in >5% of number of the permutation experiments.
 
 **Test Result**
-* ~80% of experiments are in favor of the null hypothesis.
+* ~70% of experiments are in favor of the null hypothesis.
 * Null hypothesis accepted.
 * All conclusions on customer analysis are going right.
 
