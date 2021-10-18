@@ -14,6 +14,7 @@ Know the customer behavior and recommend the steps to retain existing customers 
   * Steps to retain customers
   * Hypothesis test (Permutations)
 4. Machine Learning Model
+  * Random Under-Sampling
   * EDA
   * Feature Engineering
   * Decision Tree | Confusion matrix, Classification Report
@@ -63,13 +64,11 @@ Some of the Visualizations are below.
 ## 2. Predictive Model
 Comparison of different algorithms
 
-![image](https://user-images.githubusercontent.com/75474944/134847507-793ebc7d-3c62-4393-b0cf-961e1d0d846f.png)
+![image](https://user-images.githubusercontent.com/75474944/137756590-5435b89d-e15e-4cb1-a2c6-b8c14639e657.png)
 
 ### Machine Learning Models
 * Random Forest, Gradientboost are best.
 * Gradientboost, decision tree, KNN are hyperparameter tuned. Random forest is not hyperparameter tuned.
-* Random forest is working like gradient boost(tuned model) without hyperparameter tuning so it is the best algorithm because it has by default raw sampling procedure.
-* This case class imbalance is 85/15 % still it is not like <5% kind of case, so random forest will do best because of its default sampling procedure before applying special class imbalance strategies.
 
 ## 3. FastAPI 
 Deployment in FastAPI, uvicorn.
