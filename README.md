@@ -64,11 +64,11 @@ Some of the Visualizations are below.
 ## 2. Predictive Model
 Comparison of different algorithms
 
-![image](https://user-images.githubusercontent.com/75474944/137756590-5435b89d-e15e-4cb1-a2c6-b8c14639e657.png)
+![image](https://user-images.githubusercontent.com/75474944/137758961-7ef3cebe-8233-437c-a284-f9db9a860635.png)
 
 ### Machine Learning Models
 * Random Forest, Gradientboost are best.
 * Gradientboost, decision tree, KNN are hyperparameter tuned. Random forest is not hyperparameter tuned.
 
 ## 3. FastAPI 
-Deployment in FastAPI, uvicorn.
+API: FastAPI, uvicorn.
