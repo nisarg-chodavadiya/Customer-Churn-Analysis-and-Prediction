@@ -4,7 +4,7 @@ Recommend the steps to retain existing telecom customers. In the industry retain
 Know the customer behavior and recommend the steps to retain existing customers and build the model to know which existing customers may leave.
 1. Customer Analysis -- Steps to Retain Customers -- Hypothesis test
 2. Predictive Model
-3. Deployment in FastAPI
+3. Web App in FastAPI
 
 ### Note Book
 1. Imports
