@@ -16,7 +16,7 @@ Know the customer behavior and recommend the steps to retain existing customers 
 4. Machine Learning Model
   * Random Under-Sampling
   * EDA
-  * Feature Engineering
+  * Feature Scaling
   * Decision Tree | Confusion matrix, Classification Report
   * Random Forest | Confusion matrix, Classification Report
   * Gradient Boost | Confusion matrix, Classification Report
