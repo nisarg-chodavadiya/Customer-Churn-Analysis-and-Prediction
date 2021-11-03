@@ -64,7 +64,7 @@ Some of the Visualizations are below.
 ## 2. Predictive Model
 Comparison of different algorithms
 
-![image](https://user-images.githubusercontent.com/75474944/137758961-7ef3cebe-8233-437c-a284-f9db9a860635.png)
+![image](https://user-images.githubusercontent.com/75474944/140018545-31777cc8-3b5d-437a-b6bf-d94095a1b315.png)
 
 ### Machine Learning Models
 * Random Forest, Gradientboost are best.
