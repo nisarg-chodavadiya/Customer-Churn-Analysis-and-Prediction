@@ -6,23 +6,8 @@ Know the customer behavior and recommend the steps to retain existing customers 
 2. Predictive Model
 3. Web App in FastAPI
 
-### Note Book
-1. Imports
-2. Info
-3. Customer Analysis
-  * Customer segmentation
-  * Steps to retain customers
-  * Hypothesis test (Permutations)
-4. Machine Learning Model
-  * Random Under-Sampling
-  * EDA
-  * Feature Scaling
-  * Decision Tree | Confusion matrix, Classification Report
-  * Random Forest | Confusion matrix, Classification Report
-  * Gradient Boost | Confusion matrix, Classification Report
-  * KNN | Confusion matrix, Classification Report
-  * Evaluation AUC ROC Curve for all models
-5. Conclusion
+### Data
+![image](https://user-images.githubusercontent.com/75474944/142570115-43ccc4b4-eae5-4562-a4a7-d11f074093ce.png)
 
 ## 1. Customer Analysis
 All customers are divided into two segments from data usage and analysis of all customer attributes for each segment analyzed.
